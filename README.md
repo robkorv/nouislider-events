@@ -1,4 +1,4 @@
-# nouislider-jquery-events
+# nouislider-events
 How do I know which slider triggered?
 
 This will hopefuly turn in a working proof of concept.
