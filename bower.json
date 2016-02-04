@@ -1,0 +1,23 @@
+{
+  "name": "nouislider-jquery-events",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Robbert Korving <r.korving@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nouislider": "^8.2.1",
+    "jquery": "^2.2.0"
+  }
+}
